@@ -1,0 +1,17 @@
+com\assessment\todoProductApp\advice\ErrorResponse.class
+com\assessment\todoProductApp\service\impl\ProductServiceImpl.class
+com\assessment\todoProductApp\service\ProductService.class
+com\assessment\todoProductApp\repo\ProductRepository.class
+com\assessment\todoProductApp\models\Product.class
+com\assessment\todoProductApp\TodoProductAppApplication.class
+com\assessment\todoProductApp\models\ProductMapper.class
+com\assessment\todoProductApp\exceptions\ProductNotFoundException.class
+com\assessment\todoProductApp\dto\ProductResponse$ProductResponseBuilder.class
+com\assessment\todoProductApp\models\Product$ProductBuilder.class
+com\assessment\todoProductApp\controller\ProductController.class
+com\assessment\todoProductApp\config\DbConfig.class
+com\assessment\todoProductApp\dto\ProductDto.class
+com\assessment\todoProductApp\exceptions\DatabaseOperationFailedException.class
+com\assessment\todoProductApp\dto\ProductResponse.class
+com\assessment\todoProductApp\dto\ProductDto$ProductDtoBuilder.class
+com\assessment\todoProductApp\advice\ProductExceptionHandler.class
